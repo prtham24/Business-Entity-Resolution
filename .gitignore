@@ -1,0 +1,17 @@
+# data & outputs (competition data must not be committed)
+dataset/
+data/
+data_synth/
+output/
+artifacts/
+variants/
+*.tsv
+*.npz
+*.zip
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/

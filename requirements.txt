@@ -1,0 +1,10 @@
+# Tested with Python 3.12 (also works on 3.9-3.12 with these pins).
+# Also verified with numpy 2.4.4 / pandas 3.0.2 / scikit-learn 1.8.0 / scipy 1.17.1.
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+scikit-learn==1.5.2
+lightgbm==4.7.0
+rapidfuzz==3.14.6
+sparse-dot-topn==1.2.0
+joblib==1.6.0
